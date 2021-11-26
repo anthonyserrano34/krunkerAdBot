@@ -1,0 +1,17 @@
+{
+  "name": "krunkertest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clui": "^0.3.6",
+    "playwright": "^1.16.3",
+    "playwright-extra": "^4.2.1-next.616",
+    "prompt-sync": "^4.2.0"
+  }
+}
